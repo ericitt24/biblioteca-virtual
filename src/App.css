@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+  }
+    
+  .pdf-info {
+    flex: 1;
+    padding-right: 20px; /* Espacio entre la descripción y la imagen */
+  }
+
+  .pdf-container {
+    text-align: left;
+  }
+  
+  .thumbnail {
+    width: 200px;
+    height: left;
+    margin-bottom: 10px; /* Espacio entre la imagen y el botón */
+  }
+  
+  .pdf-container button {
+    display: block;
+    margin: 0 left; /* Centrar horizontalmente el botón */
+  }
+  
